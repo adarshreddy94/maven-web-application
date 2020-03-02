@@ -19,7 +19,6 @@
 
 	<properties>
 		<!-- versions -->
-		
 		<spring.version>5.0.2.RELEASE</spring.version>
 		<junit.version>4.12</junit.version>
 		<log4j.version>1.2.17</log4j.version>
@@ -104,7 +103,7 @@
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-compiler-plugin</artifactId>
+				<artifactId></artifactId>
 				<version>3.6.3</version>
 				<inherited>true</inherited>
 				<configuration>
